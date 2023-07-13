@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.10)  12 JUL 2023 14:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.10)  13 JUL 2023 11:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -892,7 +892,7 @@ LaTeX Warning: No \author given.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14.4> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 62.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--73
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
 
  []
 
@@ -902,231 +902,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--80
  []
 
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 85.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 86.
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--89
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
 
  []
 
 [2{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.98 \end{enumerate}
-                    
-? 
-
-LaTeX Warning: Command \^ invalid in math mode on input line 99.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ... \let \ignorespaces \relax \accent 
-                                                  #1 #2\egroup \ifmmode \els...
-l.99 \item The equation of a line through $(2, â
-                                                €“ 4)$ and parallel to x-axi...
-
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.99 \item The equation of a line through $(2, â€
-                                                 “ 4)$ and parallel to x-axi...
-
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.99 \item The equation of a line through $(2, â€“
-                                                   4)$ and parallel to x-axi...
-
-? 
-
 Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
-
-LaTeX Warning: Command \^ invalid in math mode on input line 100.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ... \let \ignorespaces \relax \accent 
-                                                  #1 #2\egroup \ifmmode \els...
-l.100 ...ngle $ABC$, having vertices $A(2, 5), B(â
-                                                  €“ 4, 9)$ and $C(â€“ 2, â€...
-
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.100 ...gle $ABC$, having vertices $A(2, 5), B(â€
-                                                  “ 4, 9)$ and $C(â€“ 2, â€“...
-
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.100 ...le $ABC$, having vertices $A(2, 5), B(â€“
-                                                   4, 9)$ and $C(â€“ 2, â€“ ...
-
-? 
-
-LaTeX Warning: Command \^ invalid in math mode on input line 100.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ... \let \ignorespaces \relax \accent 
-                                                  #1 #2\egroup \ifmmode \els...
-l.100 ... vertices $A(2, 5), B(â€“ 4, 9)$ and $C(â
-                                                  €“ 2, â€“ 1)$. \\
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.100 ...vertices $A(2, 5), B(â€“ 4, 9)$ and $C(â€
-                                                  “ 2, â€“ 1)$. \\
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.100 ...ertices $A(2, 5), B(â€“ 4, 9)$ and $C(â€“
-                                                   2, â€“ 1)$. \\
-? 
-
-LaTeX Warning: Command \^ invalid in math mode on input line 100.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ... \let \ignorespaces \relax \accent 
-                                                  #1 #2\egroup \ifmmode \els...
-l.100 ...es $A(2, 5), B(â€“ 4, 9)$ and $C(â€“ 2, â
-                                                  €“ 1)$. \\
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.100 ...s $A(2, 5), B(â€“ 4, 9)$ and $C(â€“ 2, â€
-                                                  “ 1)$. \\
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.100 ... $A(2, 5), B(â€“ 4, 9)$ and $C(â€“ 2, â€“
-                                                   1)$. \\
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
-
- []
-
-
-LaTeX Warning: Command \^ invalid in math mode on input line 110.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ... \let \ignorespaces \relax \accent 
-                                                  #1 #2\egroup \ifmmode \els...
-l.110 ...$x>0$  is perpendicular to the line $3x â
-                                                  €“ 4y â€“ 7 = 0 is:$\\
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.110 ...x>0$  is perpendicular to the line $3x â€
-                                                  “ 4y â€“ 7 = 0 is:$\\
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.110 ...>0$  is perpendicular to the line $3x â€“
-                                                   4y â€“ 7 = 0 is:$\\
-? 
-
-LaTeX Warning: Command \^ invalid in math mode on input line 110.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ... \let \ignorespaces \relax \accent 
-                                                  #1 #2\egroup \ifmmode \els...
-l.110 ...is perpendicular to the line $3x â€“ 4y â
-                                                  €“ 7 = 0 is:$\\
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.110 ...s perpendicular to the line $3x â€“ 4y â€
-                                                  “ 7 = 0 is:$\\
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.110 ... perpendicular to the line $3x â€“ 4y â€“
-                                                   7 = 0 is:$\\
-? 
 [3] (./lincon.aux) ) 
 Here is how much of TeX's memory you used:
- 22456 strings out of 478287
- 466630 string characters out of 5849289
+ 22455 strings out of 478287
+ 466622 string characters out of 5849289
  693188 words of memory out of 5000000
- 40263 multiletter control sequences out of 15000+600000
+ 40262 multiletter control sequences out of 15000+600000
  504330 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,14n,104p,408b,516s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1136,7 +928,8 @@ Here is how much of TeX's memory you used:
 mf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on lincon.pdf (2 pages, 44341 bytes).
+
+Output written on lincon.pdf (2 pages, 44519 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
